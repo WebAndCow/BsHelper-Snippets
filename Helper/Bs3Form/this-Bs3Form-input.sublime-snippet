@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[echo \$this->Bs3Form->input(${1:\$fieldName}, ${2:\$options = array()});]]></content>
+	<tabTrigger>input</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Bs3Form->input()</description>
+</snippet>

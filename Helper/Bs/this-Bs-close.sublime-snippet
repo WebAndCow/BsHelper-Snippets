@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$this->Bs->close(${1:\$nb}).]]></content>
+	<tabTrigger>close</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Bs->close()</description>
+</snippet>

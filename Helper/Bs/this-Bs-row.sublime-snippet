@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$this->Bs->row().]]></content>
+	<tabTrigger>row</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Bs->row()</description>
+</snippet>
