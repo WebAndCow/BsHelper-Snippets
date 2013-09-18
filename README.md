@@ -1,7 +1,7 @@
 BsHelper Snippets
 =======================
 
-Snippets SublimeText 2 for the BsHelper and the BsFormHelper - CakePHP Helpers
+Snippets SublimeText 2 for the BsHelper and the BsFormHelper - Bootstrap Helpers for CakePHP
 
 The BsHelper and BsFormHelper are CakePHP Helpers available here : 
 
