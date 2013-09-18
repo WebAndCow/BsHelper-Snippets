@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[echo \$this->BsForm->checkbox(${1:\$fieldName}, ${2:\$options})]]></content>
+	<tabTrigger>checkbox</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->BsForm->checkbox()</description>
+</snippet>

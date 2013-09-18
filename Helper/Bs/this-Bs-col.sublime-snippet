@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[\$this->Bs->col(${1:'xs12'}, ${2:''}, ${3:''}, ${4:''}, ${5:array('')}).]]></content>
+	<content><![CDATA[\$this->Bs->col(${1:'xs12'}, ${2:''}, ${3:''}, ${4:''}, ${5:array('')})]]></content>
 	<tabTrigger>col</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: $this->Bs->col()</description>

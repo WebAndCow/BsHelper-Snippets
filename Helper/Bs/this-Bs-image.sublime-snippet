@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[\$this->Bs->image(${1:\$path}, ${2:\$options=array()}).]]></content>
+	<content><![CDATA[\$this->Bs->image(${1:\$path}, ${2:\$options=array()})]]></content>
 	<tabTrigger>image</tabTrigger>
 	<scope>source.php</scope>
 	<description>CakePHP: $this->Bs->image()</description>
